@@ -1,0 +1,16 @@
+{
+  "universities": [
+    {
+      "name": "Universitatea Babes-Bolyai",
+      "slug": "universitatea-babes-bolyai",
+      "faculties": [
+        {
+          "name": "Facultatea de Matematica si Informatica",
+          "repo": "peviitor-widget/matematica-informatica",
+          "status": "în configurare",
+          "updatedAt": "2026-08-03T12:10:40.504Z"
+        }
+      ]
+    }
+  ]
+}
