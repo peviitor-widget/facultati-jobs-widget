@@ -5,17 +5,18 @@
       "slug": "universitatea-babes-bolyai",
       "faculties": [
         {
-          "name": "Facultatea de Litere",
-          "repo": "peviitor-widget/litere",
-          "status": "în configurare",
-          "updatedAt": "2026-08-03T14:13:07.548Z"
-        },
-        {
           "name": "Facultatea de Matematica si Informatica, Universitatea Babeș-Bolyai Cluj-Napoca",
           "repo": "peviitor-widget/matematica-informatica",
           "status": "activ",
           "updatedAt": "2026-08-03T12:14:16.324Z",
           "widgetUrl": "https://peviitor-widget.github.io/matematica-informatica"
+        },
+        {
+          "name": "Facultatea de Matematică și Informatică, Universitatea Babeș-Bolyai Cluj-Napoca",
+          "repo": "peviitor-widget/litere",
+          "status": "activ",
+          "updatedAt": "2026-08-03T14:19:36.517Z",
+          "widgetUrl": "https://peviitor-widget.github.io/litere"
         }
       ]
     }
