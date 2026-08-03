@@ -5,10 +5,11 @@
       "slug": "universitatea-babes-bolyai",
       "faculties": [
         {
-          "name": "Facultatea de Matematica si Informatica",
+          "name": "Facultatea de Matematica si Informatica, Universitatea Babeș-Bolyai Cluj-Napoca",
           "repo": "peviitor-widget/matematica-informatica",
-          "status": "în configurare",
-          "updatedAt": "2026-08-03T12:10:40.504Z"
+          "status": "activ",
+          "updatedAt": "2026-08-03T12:14:16.324Z",
+          "widgetUrl": "https://peviitor-widget.github.io/matematica-informatica"
         }
       ]
     }
