@@ -19,6 +19,18 @@
           "widgetUrl": "https://peviitor-widget.github.io/litere"
         }
       ]
+    },
+    {
+      "name": "universtiate babes bolyai",
+      "slug": "universtiate-babes-bolyai",
+      "faculties": [
+        {
+          "name": "matematica informatica",
+          "repo": "peviitor-widget/universtiate-babes-bolyai-matematica-informatica",
+          "status": "în configurare",
+          "updatedAt": "2026-08-20T16:52:07.980Z"
+        }
+      ]
     }
   ]
 }
