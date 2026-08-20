@@ -12,17 +12,18 @@
           "widgetUrl": "https://peviitor-widget.github.io/matematica-informatica"
         },
         {
+          "name": "Facultatea de Matematică și Informatică, Universitatea Babeș-Bolyai",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-matematica-informatica",
+          "status": "activ",
+          "updatedAt": "2026-08-20T16:59:59.836Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-matematica-informatica"
+        },
+        {
           "name": "Facultatea de Matematică și Informatică, Universitatea Babeș-Bolyai Cluj-Napoca",
           "repo": "peviitor-widget/litere",
           "status": "activ",
           "updatedAt": "2026-08-03T14:19:36.517Z",
           "widgetUrl": "https://peviitor-widget.github.io/litere"
-        },
-        {
-          "name": "matematica si informatica",
-          "repo": "peviitor-widget/universitatea-babes-bolyai-matematica-informatica",
-          "status": "în configurare",
-          "updatedAt": "2026-08-20T16:57:05.898Z"
         }
       ]
     },
