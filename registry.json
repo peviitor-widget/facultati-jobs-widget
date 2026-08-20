@@ -24,6 +24,12 @@
           "status": "activ",
           "updatedAt": "2026-08-03T14:19:36.517Z",
           "widgetUrl": "https://peviitor-widget.github.io/litere"
+        },
+        {
+          "name": "litere",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-litere",
+          "status": "în configurare",
+          "updatedAt": "2026-08-20T17:08:27.116Z"
         }
       ]
     },
