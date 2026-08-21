@@ -35,8 +35,9 @@
         {
           "name": "fizica",
           "repo": "peviitor-widget/universitatea-babes-bolyai-fizica",
-          "status": "în configurare",
-          "updatedAt": "2026-08-21T09:39:39.885Z"
+          "status": "activ",
+          "updatedAt": "2026-08-21T09:50:31.551Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-fizica"
         }
       ]
     },
