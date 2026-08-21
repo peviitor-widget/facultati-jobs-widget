@@ -31,6 +31,12 @@
           "status": "activ",
           "updatedAt": "2026-08-03T14:19:36.517Z",
           "widgetUrl": "https://peviitor-widget.github.io/litere"
+        },
+        {
+          "name": "fizica",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-fizica",
+          "status": "în configurare",
+          "updatedAt": "2026-08-21T09:39:39.885Z"
         }
       ]
     },
