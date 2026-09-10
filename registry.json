@@ -81,6 +81,13 @@
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-stiinta-ingineria-meidului"
         },
         {
+          "name": "Facultatea de Științe Politice, Administrative și ale Comunicării - Universitatea Babeș-Bolyai",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-fspac",
+          "status": "activ",
+          "updatedAt": "2026-09-10T15:50:55.268Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-fspac"
+        },
+        {
           "name": "fizica",
           "repo": "peviitor-widget/universitatea-babes-bolyai-fizica",
           "status": "activ",
@@ -92,12 +99,6 @@
           "repo": "peviitor-widget/universitatea-babes-bolyai-fsega",
           "status": "în configurare",
           "updatedAt": "2026-09-10T15:45:05.754Z"
-        },
-        {
-          "name": "fspac",
-          "repo": "peviitor-widget/universitatea-babes-bolyai-fspac",
-          "status": "în configurare",
-          "updatedAt": "2026-09-10T15:47:08.008Z"
         },
         {
           "name": "psihologie si stiinte ale educatiei",
