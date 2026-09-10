@@ -89,6 +89,13 @@
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-stiinta-ingineria-meidului"
         },
         {
+          "name": "Facultatea de Științe Medicale și ale Sănătății, Universitatea Babeș-Bolyai Cluj-Napoca",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-stiinte-medicale-sanatatii",
+          "status": "activ",
+          "updatedAt": "2026-09-10T15:57:31.271Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-stiinte-medicale-sanatatii"
+        },
+        {
           "name": "Facultatea de Științe Politice, Administrative și ale Comunicării - Universitatea Babeș-Bolyai",
           "repo": "peviitor-widget/universitatea-babes-bolyai-fspac",
           "status": "activ",
@@ -122,12 +129,6 @@
           "status": "activ",
           "updatedAt": "2026-09-10T15:53:54.320Z",
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-sport-educatie-fizica"
-        },
-        {
-          "name": "stiinte medicale si ale sanatatii",
-          "repo": "peviitor-widget/universitatea-babes-bolyai-stiinte-medicale-sanatatii",
-          "status": "în configurare",
-          "updatedAt": "2026-09-10T15:49:25.783Z"
         },
         {
           "name": "Studii Europene, Universitatea Babeș-Bolyai",
