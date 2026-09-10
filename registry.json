@@ -5,6 +5,12 @@
       "slug": "universitatea-babes-bolyai",
       "faculties": [
         {
+          "name": "drept",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-drept",
+          "status": "în configurare",
+          "updatedAt": "2026-09-10T15:42:58.299Z"
+        },
+        {
           "name": "facultatea de biologie si geologie",
           "repo": "peviitor-widget/universitatea-babes-bolyai-biologie-geologie",
           "status": "în configurare",

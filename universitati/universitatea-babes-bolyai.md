@@ -1,9 +1,10 @@
 # Universitatea Babes-Bolyai
 
-9 facultăți cu widget de joburi.
+10 facultăți cu widget de joburi.
 
 | Facultate | Repository | Widget |
 |-----------|------------|--------|
+| drept | [universitatea-babes-bolyai-drept](https://github.com/peviitor-widget/universitatea-babes-bolyai-drept) | în configurare |
 | facultatea de biologie si geologie | [universitatea-babes-bolyai-biologie-geologie](https://github.com/peviitor-widget/universitatea-babes-bolyai-biologie-geologie) | în configurare |
 | facultatea de chimie | [universitatea-babes-bolyai-chimie](https://github.com/peviitor-widget/universitatea-babes-bolyai-chimie) | în configurare |
 | facultatea de geografie | [universitatea-babes-bolyai-geografie](https://github.com/peviitor-widget/universitatea-babes-bolyai-geografie) | în configurare |
