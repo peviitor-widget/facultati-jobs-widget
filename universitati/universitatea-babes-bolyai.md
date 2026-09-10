@@ -21,7 +21,7 @@
 | psihologie si stiinte ale educatiei | [universitatea-babes-bolyai-psihologie-stiinte-educatiei](https://github.com/peviitor-widget/universitatea-babes-bolyai-psihologie-stiinte-educatiei) | în configurare |
 | sport si educatie fizica | [universitatea-babes-bolyai-sport-educatie-fizica](https://github.com/peviitor-widget/universitatea-babes-bolyai-sport-educatie-fizica) | în configurare |
 | stiinte medicale si ale sanatatii | [universitatea-babes-bolyai-stiinte-medicale-sanatatii](https://github.com/peviitor-widget/universitatea-babes-bolyai-stiinte-medicale-sanatatii) | în configurare |
-| studii europene | [universitatea-babes-bolyai-studii-europene](https://github.com/peviitor-widget/universitatea-babes-bolyai-studii-europene) | în configurare |
+| Studii Europene, Universitatea Babeș-Bolyai | [universitatea-babes-bolyai-studii-europene](https://github.com/peviitor-widget/universitatea-babes-bolyai-studii-europene) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-studii-europene) |
 | teatru si film | [universitatea-babes-bolyai-teatru-film](https://github.com/peviitor-widget/universitatea-babes-bolyai-teatru-film) | în configurare |
 
 ---

@@ -118,10 +118,11 @@
           "updatedAt": "2026-09-10T15:49:25.783Z"
         },
         {
-          "name": "studii europene",
+          "name": "Studii Europene, Universitatea Babeș-Bolyai",
           "repo": "peviitor-widget/universitatea-babes-bolyai-studii-europene",
-          "status": "în configurare",
-          "updatedAt": "2026-09-10T15:45:39.016Z"
+          "status": "activ",
+          "updatedAt": "2026-09-10T15:50:45.459Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-studii-europene"
         },
         {
           "name": "teatru si film",
