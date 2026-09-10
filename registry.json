@@ -66,8 +66,9 @@
         {
           "name": "facultatea de stiinta si ingineria meidului",
           "repo": "peviitor-widget/universitatea-babes-bolyai-stiinta-ingineria-meidului",
-          "status": "în configurare",
-          "updatedAt": "2026-09-10T15:42:17.884Z"
+          "status": "activ",
+          "updatedAt": "2026-09-10T15:47:38.768Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-stiinta-ingineria-meidului"
         },
         {
           "name": "fizica",

@@ -13,7 +13,7 @@
 | Facultatea de Matematica si Informatica, Universitatea Babeș-Bolyai Cluj-Napoca | [matematica-informatica](https://github.com/peviitor-widget/matematica-informatica) | [live](https://peviitor-widget.github.io/matematica-informatica) |
 | Facultatea de Matematică și Informatică, Universitatea Babeș-Bolyai | [universitatea-babes-bolyai-matematica-informatica](https://github.com/peviitor-widget/universitatea-babes-bolyai-matematica-informatica) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-matematica-informatica) |
 | Facultatea de Matematică și Informatică, Universitatea Babeș-Bolyai Cluj-Napoca | [litere](https://github.com/peviitor-widget/litere) | [live](https://peviitor-widget.github.io/litere) |
-| facultatea de stiinta si ingineria meidului | [universitatea-babes-bolyai-stiinta-ingineria-meidului](https://github.com/peviitor-widget/universitatea-babes-bolyai-stiinta-ingineria-meidului) | în configurare |
+| facultatea de stiinta si ingineria meidului | [universitatea-babes-bolyai-stiinta-ingineria-meidului](https://github.com/peviitor-widget/universitatea-babes-bolyai-stiinta-ingineria-meidului) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-stiinta-ingineria-meidului) |
 | fizica | [universitatea-babes-bolyai-fizica](https://github.com/peviitor-widget/universitatea-babes-bolyai-fizica) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-fizica) |
 | fsega | [universitatea-babes-bolyai-fsega](https://github.com/peviitor-widget/universitatea-babes-bolyai-fsega) | în configurare |
 | fspac | [universitatea-babes-bolyai-fspac](https://github.com/peviitor-widget/universitatea-babes-bolyai-fspac) | în configurare |
