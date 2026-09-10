@@ -19,7 +19,7 @@
 | Facultatea de Științe Politice, Administrative și ale Comunicării - Universitatea Babeș-Bolyai | [universitatea-babes-bolyai-fspac](https://github.com/peviitor-widget/universitatea-babes-bolyai-fspac) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-fspac) |
 | fizica | [universitatea-babes-bolyai-fizica](https://github.com/peviitor-widget/universitatea-babes-bolyai-fizica) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-fizica) |
 | fsega | [universitatea-babes-bolyai-fsega](https://github.com/peviitor-widget/universitatea-babes-bolyai-fsega) | în configurare |
-| sport si educatie fizica | [universitatea-babes-bolyai-sport-educatie-fizica](https://github.com/peviitor-widget/universitatea-babes-bolyai-sport-educatie-fizica) | în configurare |
+| sport si educatie fizica | [universitatea-babes-bolyai-sport-educatie-fizica](https://github.com/peviitor-widget/universitatea-babes-bolyai-sport-educatie-fizica) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-sport-educatie-fizica) |
 | stiinte medicale si ale sanatatii | [universitatea-babes-bolyai-stiinte-medicale-sanatatii](https://github.com/peviitor-widget/universitatea-babes-bolyai-stiinte-medicale-sanatatii) | în configurare |
 | Studii Europene, Universitatea Babeș-Bolyai | [universitatea-babes-bolyai-studii-europene](https://github.com/peviitor-widget/universitatea-babes-bolyai-studii-europene) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-studii-europene) |
 | teatru si film | [universitatea-babes-bolyai-teatru-film](https://github.com/peviitor-widget/universitatea-babes-bolyai-teatru-film) | în configurare |

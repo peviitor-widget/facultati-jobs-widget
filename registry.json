@@ -111,8 +111,9 @@
         {
           "name": "sport si educatie fizica",
           "repo": "peviitor-widget/universitatea-babes-bolyai-sport-educatie-fizica",
-          "status": "în configurare",
-          "updatedAt": "2026-09-10T15:47:05.286Z"
+          "status": "activ",
+          "updatedAt": "2026-09-10T15:53:54.320Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-sport-educatie-fizica"
         },
         {
           "name": "stiinte medicale si ale sanatatii",
