@@ -5,6 +5,12 @@
       "slug": "universitatea-babes-bolyai",
       "faculties": [
         {
+          "name": "facultatea de biologie si geologie",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-biologie-geologie",
+          "status": "în configurare",
+          "updatedAt": "2026-09-10T15:40:44.877Z"
+        },
+        {
           "name": "facultatea de chimie",
           "repo": "peviitor-widget/universitatea-babes-bolyai-chimie",
           "status": "în configurare",
