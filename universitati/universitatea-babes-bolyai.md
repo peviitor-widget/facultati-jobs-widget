@@ -1,6 +1,6 @@
 # Universitatea Babes-Bolyai
 
-17 facultăți cu widget de joburi.
+18 facultăți cu widget de joburi.
 
 | Facultate | Repository | Widget |
 |-----------|------------|--------|
@@ -21,6 +21,7 @@
 | sociologie si asistenta sociala | [universitatea-babes-bolyai-sociologie-asistenta-sociala](https://github.com/peviitor-widget/universitatea-babes-bolyai-sociologie-asistenta-sociala) | în configurare |
 | sport si educatie fizica | [universitatea-babes-bolyai-sport-educatie-fizica](https://github.com/peviitor-widget/universitatea-babes-bolyai-sport-educatie-fizica) | în configurare |
 | studii europene | [universitatea-babes-bolyai-studii-europene](https://github.com/peviitor-widget/universitatea-babes-bolyai-studii-europene) | în configurare |
+| teatru si film | [universitatea-babes-bolyai-teatru-film](https://github.com/peviitor-widget/universitatea-babes-bolyai-teatru-film) | în configurare |
 
 ---
 
