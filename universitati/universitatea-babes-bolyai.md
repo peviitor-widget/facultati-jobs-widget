@@ -1,6 +1,6 @@
 # Universitatea Babes-Bolyai
 
-13 facultăți cu widget de joburi.
+14 facultăți cu widget de joburi.
 
 | Facultate | Repository | Widget |
 |-----------|------------|--------|
@@ -17,6 +17,7 @@
 | fsega | [universitatea-babes-bolyai-fsega](https://github.com/peviitor-widget/universitatea-babes-bolyai-fsega) | în configurare |
 | psihologie si stiinte ale educatiei | [universitatea-babes-bolyai-psihologie-stiinte-educatiei](https://github.com/peviitor-widget/universitatea-babes-bolyai-psihologie-stiinte-educatiei) | în configurare |
 | sociologie si asistenta sociala | [universitatea-babes-bolyai-sociologie-asistenta-sociala](https://github.com/peviitor-widget/universitatea-babes-bolyai-sociologie-asistenta-sociala) | în configurare |
+| studii europene | [universitatea-babes-bolyai-studii-europene](https://github.com/peviitor-widget/universitatea-babes-bolyai-studii-europene) | în configurare |
 
 ---
 
