@@ -17,6 +17,12 @@
           "updatedAt": "2026-09-10T15:39:43.020Z"
         },
         {
+          "name": "facultatea de geografie",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-geografie",
+          "status": "în configurare",
+          "updatedAt": "2026-09-10T15:41:18.132Z"
+        },
+        {
           "name": "Facultatea de Litere, Universitatea Babeș-Bolyai Cluj-Napoca",
           "repo": "peviitor-widget/universitatea-babes-bolyai-litere",
           "status": "activ",

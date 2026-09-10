@@ -1,10 +1,10 @@
 # Facultăți cu widget de joburi
 
-8 facultăți din 2 universități.
+9 facultăți din 2 universități.
 
 | Universitate | Facultăți |
 |--------------|-----------|
-| [Universitatea Babes-Bolyai](universitati/universitatea-babes-bolyai.md) | 7 |
+| [Universitatea Babes-Bolyai](universitati/universitatea-babes-bolyai.md) | 8 |
 | [universtiate babes bolyai](universitati/universtiate-babes-bolyai.md) | 1 |
 
 ---
