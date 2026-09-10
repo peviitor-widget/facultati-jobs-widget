@@ -65,6 +65,13 @@
           "widgetUrl": "https://peviitor-widget.github.io/litere"
         },
         {
+          "name": "Facultatea de Sociologie și Asistență Socială, Universitatea Babeș-Bolyai",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-sociologie-asistenta-sociala",
+          "status": "activ",
+          "updatedAt": "2026-09-10T15:49:22.186Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-sociologie-asistenta-sociala"
+        },
+        {
           "name": "facultatea de stiinta si ingineria meidului",
           "repo": "peviitor-widget/universitatea-babes-bolyai-stiinta-ingineria-meidului",
           "status": "activ",
@@ -95,12 +102,6 @@
           "repo": "peviitor-widget/universitatea-babes-bolyai-psihologie-stiinte-educatiei",
           "status": "în configurare",
           "updatedAt": "2026-09-10T15:44:35.713Z"
-        },
-        {
-          "name": "sociologie si asistenta sociala",
-          "repo": "peviitor-widget/universitatea-babes-bolyai-sociologie-asistenta-sociala",
-          "status": "în configurare",
-          "updatedAt": "2026-09-10T15:43:55.073Z"
         },
         {
           "name": "sport si educatie fizica",
