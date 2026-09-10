@@ -17,10 +17,11 @@
           "updatedAt": "2026-09-10T15:40:44.877Z"
         },
         {
-          "name": "facultatea de chimie",
+          "name": "Facultatea de Chimie și Inginerie Chimică, Universitatea Babeș-Bolyai",
           "repo": "peviitor-widget/universitatea-babes-bolyai-chimie",
-          "status": "în configurare",
-          "updatedAt": "2026-09-10T15:39:43.020Z"
+          "status": "activ",
+          "updatedAt": "2026-09-10T15:45:35.457Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-chimie"
         },
         {
           "name": "facultatea de geografie",

@@ -6,7 +6,7 @@
 |-----------|------------|--------|
 | drept | [universitatea-babes-bolyai-drept](https://github.com/peviitor-widget/universitatea-babes-bolyai-drept) | în configurare |
 | facultatea de biologie si geologie | [universitatea-babes-bolyai-biologie-geologie](https://github.com/peviitor-widget/universitatea-babes-bolyai-biologie-geologie) | în configurare |
-| facultatea de chimie | [universitatea-babes-bolyai-chimie](https://github.com/peviitor-widget/universitatea-babes-bolyai-chimie) | în configurare |
+| Facultatea de Chimie și Inginerie Chimică, Universitatea Babeș-Bolyai | [universitatea-babes-bolyai-chimie](https://github.com/peviitor-widget/universitatea-babes-bolyai-chimie) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-chimie) |
 | facultatea de geografie | [universitatea-babes-bolyai-geografie](https://github.com/peviitor-widget/universitatea-babes-bolyai-geografie) | în configurare |
 | Facultatea de Litere, Universitatea Babeș-Bolyai Cluj-Napoca | [universitatea-babes-bolyai-litere](https://github.com/peviitor-widget/universitatea-babes-bolyai-litere) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-litere) |
 | Facultatea de Matematica si Informatica, Universitatea Babeș-Bolyai Cluj-Napoca | [matematica-informatica](https://github.com/peviitor-widget/matematica-informatica) | [live](https://peviitor-widget.github.io/matematica-informatica) |
