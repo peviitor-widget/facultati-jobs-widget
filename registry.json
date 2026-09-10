@@ -70,6 +70,12 @@
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-fizica"
         },
         {
+          "name": "psihologie si stiinte ale educatiei",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-psihologie-stiinte-educatiei",
+          "status": "în configurare",
+          "updatedAt": "2026-09-10T15:44:35.713Z"
+        },
+        {
           "name": "sociologie si asistenta sociala",
           "repo": "peviitor-widget/universitatea-babes-bolyai-sociologie-asistenta-sociala",
           "status": "în configurare",
