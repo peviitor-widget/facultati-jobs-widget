@@ -83,6 +83,12 @@
           "updatedAt": "2026-09-10T15:45:05.754Z"
         },
         {
+          "name": "fspac",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-fspac",
+          "status": "în configurare",
+          "updatedAt": "2026-09-10T15:47:08.008Z"
+        },
+        {
           "name": "psihologie si stiinte ale educatiei",
           "repo": "peviitor-widget/universitatea-babes-bolyai-psihologie-stiinte-educatiei",
           "status": "în configurare",

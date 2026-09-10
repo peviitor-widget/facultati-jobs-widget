@@ -1,6 +1,6 @@
 # Universitatea Babes-Bolyai
 
-16 facultăți cu widget de joburi.
+17 facultăți cu widget de joburi.
 
 | Facultate | Repository | Widget |
 |-----------|------------|--------|
@@ -16,6 +16,7 @@
 | facultatea de stiinta si ingineria meidului | [universitatea-babes-bolyai-stiinta-ingineria-meidului](https://github.com/peviitor-widget/universitatea-babes-bolyai-stiinta-ingineria-meidului) | în configurare |
 | fizica | [universitatea-babes-bolyai-fizica](https://github.com/peviitor-widget/universitatea-babes-bolyai-fizica) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-fizica) |
 | fsega | [universitatea-babes-bolyai-fsega](https://github.com/peviitor-widget/universitatea-babes-bolyai-fsega) | în configurare |
+| fspac | [universitatea-babes-bolyai-fspac](https://github.com/peviitor-widget/universitatea-babes-bolyai-fspac) | în configurare |
 | psihologie si stiinte ale educatiei | [universitatea-babes-bolyai-psihologie-stiinte-educatiei](https://github.com/peviitor-widget/universitatea-babes-bolyai-psihologie-stiinte-educatiei) | în configurare |
 | sociologie si asistenta sociala | [universitatea-babes-bolyai-sociologie-asistenta-sociala](https://github.com/peviitor-widget/universitatea-babes-bolyai-sociologie-asistenta-sociala) | în configurare |
 | sport si educatie fizica | [universitatea-babes-bolyai-sport-educatie-fizica](https://github.com/peviitor-widget/universitatea-babes-bolyai-sport-educatie-fizica) | în configurare |
