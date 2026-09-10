@@ -32,10 +32,11 @@
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-chimie"
         },
         {
-          "name": "facultatea de geografie",
+          "name": "Facultatea de Geografie, Universitatea Babeș-Bolyai",
           "repo": "peviitor-widget/universitatea-babes-bolyai-geografie",
-          "status": "în configurare",
-          "updatedAt": "2026-09-10T15:41:18.132Z"
+          "status": "activ",
+          "updatedAt": "2026-09-10T15:50:17.019Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-geografie"
         },
         {
           "name": "Facultatea de Litere, Universitatea Babeș-Bolyai Cluj-Napoca",
