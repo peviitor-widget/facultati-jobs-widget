@@ -105,8 +105,9 @@
         {
           "name": "fsega",
           "repo": "peviitor-widget/universitatea-babes-bolyai-fsega",
-          "status": "în configurare",
-          "updatedAt": "2026-09-10T15:45:05.754Z"
+          "status": "activ",
+          "updatedAt": "2026-09-10T15:54:17.320Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-fsega"
         },
         {
           "name": "sport si educatie fizica",
