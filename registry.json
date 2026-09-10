@@ -5,6 +5,12 @@
       "slug": "universitatea-babes-bolyai",
       "faculties": [
         {
+          "name": "facultatea de chimie",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-chimie",
+          "status": "în configurare",
+          "updatedAt": "2026-09-10T15:39:43.020Z"
+        },
+        {
           "name": "Facultatea de Litere, Universitatea Babeș-Bolyai Cluj-Napoca",
           "repo": "peviitor-widget/universitatea-babes-bolyai-litere",
           "status": "activ",
