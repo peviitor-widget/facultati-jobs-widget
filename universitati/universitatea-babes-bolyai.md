@@ -6,7 +6,7 @@
 |-----------|------------|--------|
 | business | [universitatea-babes-bolyai-business](https://github.com/peviitor-widget/universitatea-babes-bolyai-business) | în configurare |
 | drept | [universitatea-babes-bolyai-drept](https://github.com/peviitor-widget/universitatea-babes-bolyai-drept) | în configurare |
-| facultatea de biologie si geologie | [universitatea-babes-bolyai-biologie-geologie](https://github.com/peviitor-widget/universitatea-babes-bolyai-biologie-geologie) | în configurare |
+| Facultatea de Biologie și Geologie, Universitatea Babeș-Bolyai Cluj-Napoca | [universitatea-babes-bolyai-biologie-geologie](https://github.com/peviitor-widget/universitatea-babes-bolyai-biologie-geologie) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-biologie-geologie) |
 | Facultatea de Chimie și Inginerie Chimică, Universitatea Babeș-Bolyai | [universitatea-babes-bolyai-chimie](https://github.com/peviitor-widget/universitatea-babes-bolyai-chimie) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-chimie) |
 | facultatea de geografie | [universitatea-babes-bolyai-geografie](https://github.com/peviitor-widget/universitatea-babes-bolyai-geografie) | în configurare |
 | Facultatea de Litere, Universitatea Babeș-Bolyai Cluj-Napoca | [universitatea-babes-bolyai-litere](https://github.com/peviitor-widget/universitatea-babes-bolyai-litere) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-litere) |
