@@ -1,6 +1,6 @@
 # Universitatea Babes-Bolyai
 
-10 facultăți cu widget de joburi.
+11 facultăți cu widget de joburi.
 
 | Facultate | Repository | Widget |
 |-----------|------------|--------|
@@ -14,6 +14,7 @@
 | Facultatea de Matematică și Informatică, Universitatea Babeș-Bolyai Cluj-Napoca | [litere](https://github.com/peviitor-widget/litere) | [live](https://peviitor-widget.github.io/litere) |
 | facultatea de stiinta si ingineria meidului | [universitatea-babes-bolyai-stiinta-ingineria-meidului](https://github.com/peviitor-widget/universitatea-babes-bolyai-stiinta-ingineria-meidului) | în configurare |
 | fizica | [universitatea-babes-bolyai-fizica](https://github.com/peviitor-widget/universitatea-babes-bolyai-fizica) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-fizica) |
+| sociologie si asistenta sociala | [universitatea-babes-bolyai-sociologie-asistenta-sociala](https://github.com/peviitor-widget/universitatea-babes-bolyai-sociologie-asistenta-sociala) | în configurare |
 
 ---
 

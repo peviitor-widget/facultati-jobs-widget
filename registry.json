@@ -68,6 +68,12 @@
           "status": "activ",
           "updatedAt": "2026-08-21T09:50:31.551Z",
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-fizica"
+        },
+        {
+          "name": "sociologie si asistenta sociala",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-sociologie-asistenta-sociala",
+          "status": "în configurare",
+          "updatedAt": "2026-09-10T15:43:55.073Z"
         }
       ]
     },
