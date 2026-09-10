@@ -70,6 +70,12 @@
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-fizica"
         },
         {
+          "name": "fsega",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-fsega",
+          "status": "în configurare",
+          "updatedAt": "2026-09-10T15:45:05.754Z"
+        },
+        {
           "name": "psihologie si stiinte ale educatiei",
           "repo": "peviitor-widget/universitatea-babes-bolyai-psihologie-stiinte-educatiei",
           "status": "în configurare",
