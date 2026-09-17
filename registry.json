@@ -157,10 +157,11 @@
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-automatica-calculatoare"
         },
         {
-          "name": "etti",
+          "name": "ETTI",
           "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-etti",
-          "status": "în configurare",
-          "updatedAt": "2026-09-17T15:38:26.462Z"
+          "status": "activ",
+          "updatedAt": "2026-09-17T15:44:57.079Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-etti"
         },
         {
           "name": "Facultatea de Constructii, Universitatea Tehnica Cluj-Napoca",
