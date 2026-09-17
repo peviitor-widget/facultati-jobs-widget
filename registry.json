@@ -148,6 +148,12 @@
           "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-arhitectura-urbanism",
           "status": "în configurare",
           "updatedAt": "2026-09-17T15:36:30.218Z"
+        },
+        {
+          "name": "automatica si calculatoare",
+          "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-automatica-calculatoare",
+          "status": "în configurare",
+          "updatedAt": "2026-09-17T15:36:58.349Z"
         }
       ]
     },

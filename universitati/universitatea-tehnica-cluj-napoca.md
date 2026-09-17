@@ -1,10 +1,11 @@
 # universitatea tehnica cluj napoca
 
-1 facultate cu widget de joburi.
+2 facultăți cu widget de joburi.
 
 | Facultate | Repository | Widget |
 |-----------|------------|--------|
 | arhitectura si urbanism | [universitatea-tehnica-cluj-napoca-arhitectura-urbanism](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-arhitectura-urbanism) | în configurare |
+| automatica si calculatoare | [universitatea-tehnica-cluj-napoca-automatica-calculatoare](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-automatica-calculatoare) | în configurare |
 
 ---
 

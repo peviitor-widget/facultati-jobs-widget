@@ -1,11 +1,11 @@
 # Facultăți cu widget de joburi
 
-21 facultăți din 3 universități.
+22 facultăți din 3 universități.
 
 | Universitate | Facultăți |
 |--------------|-----------|
 | [Universitatea Babes-Bolyai](universitati/universitatea-babes-bolyai.md) | 19 |
-| [universitatea tehnica cluj napoca](universitati/universitatea-tehnica-cluj-napoca.md) | 1 |
+| [universitatea tehnica cluj napoca](universitati/universitatea-tehnica-cluj-napoca.md) | 2 |
 | [universtiate babes bolyai](universitati/universtiate-babes-bolyai.md) | 1 |
 
 ---
