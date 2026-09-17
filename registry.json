@@ -160,6 +160,12 @@
           "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-autovehicule-rutiere-mecatronica-mecanica",
           "status": "în configurare",
           "updatedAt": "2026-09-17T15:37:41.391Z"
+        },
+        {
+          "name": "constructii",
+          "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-constructii",
+          "status": "în configurare",
+          "updatedAt": "2026-09-17T15:38:07.706Z"
         }
       ]
     },
