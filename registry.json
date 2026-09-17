@@ -190,10 +190,11 @@
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-inginerie-electrica"
         },
         {
-          "name": "inginerie industriala robotica si managementul productiei",
+          "name": "Inginerie Industriala Robotica si Managementul Productiei, Universitatea Tehnica Cluj-Napoca",
           "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-inginerie-industriala-robotica-managementul-productiei",
-          "status": "în configurare",
-          "updatedAt": "2026-09-17T15:40:12.414Z"
+          "status": "activ",
+          "updatedAt": "2026-09-17T15:45:41.984Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-inginerie-industriala-robotica-managementul-productiei"
         },
         {
           "name": "Universitatea Tehnica Cluj-Napoca - Facultatea de Autovehicule Rutiere, Mecatronica si Mecanica",
