@@ -156,12 +156,6 @@
           "updatedAt": "2026-09-17T15:36:58.349Z"
         },
         {
-          "name": "autovehicule rutiere mecatronica mecanica",
-          "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-autovehicule-rutiere-mecatronica-mecanica",
-          "status": "în configurare",
-          "updatedAt": "2026-09-17T15:37:41.391Z"
-        },
-        {
           "name": "constructii",
           "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-constructii",
           "status": "în configurare",
@@ -196,6 +190,13 @@
           "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-inginerie-industriala-robotica-managementul-productiei",
           "status": "în configurare",
           "updatedAt": "2026-09-17T15:40:12.414Z"
+        },
+        {
+          "name": "Universitatea Tehnica Cluj-Napoca - Facultatea de Autovehicule Rutiere, Mecatronica si Mecanica",
+          "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-autovehicule-rutiere-mecatronica-mecanica",
+          "status": "activ",
+          "updatedAt": "2026-09-17T15:42:18.631Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-autovehicule-rutiere-mecatronica-mecanica"
         }
       ]
     },
