@@ -166,6 +166,12 @@
           "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-constructii",
           "status": "în configurare",
           "updatedAt": "2026-09-17T15:38:07.706Z"
+        },
+        {
+          "name": "etti",
+          "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-etti",
+          "status": "în configurare",
+          "updatedAt": "2026-09-17T15:38:26.462Z"
         }
       ]
     },
