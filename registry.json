@@ -172,6 +172,12 @@
           "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-etti",
           "status": "în configurare",
           "updatedAt": "2026-09-17T15:38:26.462Z"
+        },
+        {
+          "name": "ingineria materialelor si a mediului",
+          "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-ingineria-materialelor-mediului",
+          "status": "în configurare",
+          "updatedAt": "2026-09-17T15:38:57.767Z"
         }
       ]
     },
