@@ -184,6 +184,12 @@
           "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-ingineria-materialelor-mediului",
           "status": "în configurare",
           "updatedAt": "2026-09-17T15:38:57.767Z"
+        },
+        {
+          "name": "inginerie electrica",
+          "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-inginerie-electrica",
+          "status": "în configurare",
+          "updatedAt": "2026-09-17T15:39:33.881Z"
         }
       ]
     },
