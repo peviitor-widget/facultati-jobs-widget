@@ -140,6 +140,18 @@
       ]
     },
     {
+      "name": "universitatea tehnica cluj napoca",
+      "slug": "universitatea-tehnica-cluj-napoca",
+      "faculties": [
+        {
+          "name": "arhitectura si urbanism",
+          "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-arhitectura-urbanism",
+          "status": "în configurare",
+          "updatedAt": "2026-09-17T15:36:30.218Z"
+        }
+      ]
+    },
+    {
       "name": "universtiate babes bolyai",
       "slug": "universtiate-babes-bolyai",
       "faculties": [
