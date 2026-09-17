@@ -6,8 +6,8 @@
 |-----------|------------|--------|
 | arhitectura si urbanism | [universitatea-tehnica-cluj-napoca-arhitectura-urbanism](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-arhitectura-urbanism) | în configurare |
 | Automatica si Calculatoare, Universitatea Tehnica din Cluj-Napoca | [universitatea-tehnica-cluj-napoca-automatica-calculatoare](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-automatica-calculatoare) | [live](https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-automatica-calculatoare) |
-| constructii | [universitatea-tehnica-cluj-napoca-constructii](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-constructii) | în configurare |
 | etti | [universitatea-tehnica-cluj-napoca-etti](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-etti) | în configurare |
+| Facultatea de Constructii, Universitatea Tehnica Cluj-Napoca | [universitatea-tehnica-cluj-napoca-constructii](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-constructii) | [live](https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-constructii) |
 | ingineria instalatiilor | [universitatea-tehnica-cluj-napoca-ingineria-instalatiilor](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-ingineria-instalatiilor) | în configurare |
 | ingineria materialelor si a mediului | [universitatea-tehnica-cluj-napoca-ingineria-materialelor-mediului](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-ingineria-materialelor-mediului) | în configurare |
 | inginerie electrica | [universitatea-tehnica-cluj-napoca-inginerie-electrica](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-inginerie-electrica) | [live](https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-inginerie-electrica) |
