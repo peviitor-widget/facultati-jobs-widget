@@ -182,8 +182,9 @@
         {
           "name": "inginerie electrica",
           "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-inginerie-electrica",
-          "status": "în configurare",
-          "updatedAt": "2026-09-17T15:39:33.881Z"
+          "status": "activ",
+          "updatedAt": "2026-09-17T15:44:14.761Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-inginerie-electrica"
         },
         {
           "name": "inginerie industriala robotica si managementul productiei",

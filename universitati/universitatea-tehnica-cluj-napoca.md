@@ -10,7 +10,7 @@
 | etti | [universitatea-tehnica-cluj-napoca-etti](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-etti) | în configurare |
 | ingineria instalatiilor | [universitatea-tehnica-cluj-napoca-ingineria-instalatiilor](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-ingineria-instalatiilor) | în configurare |
 | ingineria materialelor si a mediului | [universitatea-tehnica-cluj-napoca-ingineria-materialelor-mediului](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-ingineria-materialelor-mediului) | în configurare |
-| inginerie electrica | [universitatea-tehnica-cluj-napoca-inginerie-electrica](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-inginerie-electrica) | în configurare |
+| inginerie electrica | [universitatea-tehnica-cluj-napoca-inginerie-electrica](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-inginerie-electrica) | [live](https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-inginerie-electrica) |
 | inginerie industriala robotica si managementul productiei | [universitatea-tehnica-cluj-napoca-inginerie-industriala-robotica-managementul-productiei](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-inginerie-industriala-robotica-managementul-productiei) | în configurare |
 | Universitatea Tehnica Cluj-Napoca - Facultatea de Autovehicule Rutiere, Mecatronica si Mecanica | [universitatea-tehnica-cluj-napoca-autovehicule-rutiere-mecatronica-mecanica](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-autovehicule-rutiere-mecatronica-mecanica) | [live](https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-autovehicule-rutiere-mecatronica-mecanica) |
 
