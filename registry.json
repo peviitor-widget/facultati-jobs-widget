@@ -154,6 +154,12 @@
           "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-automatica-calculatoare",
           "status": "în configurare",
           "updatedAt": "2026-09-17T15:36:58.349Z"
+        },
+        {
+          "name": "autovehicule rutiere mecatronica mecanica",
+          "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-autovehicule-rutiere-mecatronica-mecanica",
+          "status": "în configurare",
+          "updatedAt": "2026-09-17T15:37:41.391Z"
         }
       ]
     },
