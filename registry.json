@@ -146,8 +146,9 @@
         {
           "name": "arhitectura si urbanism",
           "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-arhitectura-urbanism",
-          "status": "în configurare",
-          "updatedAt": "2026-09-17T15:36:30.218Z"
+          "status": "activ",
+          "updatedAt": "2026-09-17T15:47:45.209Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-arhitectura-urbanism"
         },
         {
           "name": "Automatica si Calculatoare, Universitatea Tehnica din Cluj-Napoca",
