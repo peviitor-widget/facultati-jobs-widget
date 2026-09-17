@@ -1,6 +1,6 @@
 # universitatea tehnica cluj napoca
 
-8 facultăți cu widget de joburi.
+9 facultăți cu widget de joburi.
 
 | Facultate | Repository | Widget |
 |-----------|------------|--------|
@@ -12,6 +12,7 @@
 | ingineria instalatiilor | [universitatea-tehnica-cluj-napoca-ingineria-instalatiilor](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-ingineria-instalatiilor) | în configurare |
 | ingineria materialelor si a mediului | [universitatea-tehnica-cluj-napoca-ingineria-materialelor-mediului](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-ingineria-materialelor-mediului) | în configurare |
 | inginerie electrica | [universitatea-tehnica-cluj-napoca-inginerie-electrica](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-inginerie-electrica) | în configurare |
+| inginerie industriala robotica si managementul productiei | [universitatea-tehnica-cluj-napoca-inginerie-industriala-robotica-managementul-productiei](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-inginerie-industriala-robotica-managementul-productiei) | în configurare |
 
 ---
 

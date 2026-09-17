@@ -190,6 +190,12 @@
           "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-inginerie-electrica",
           "status": "în configurare",
           "updatedAt": "2026-09-17T15:39:33.881Z"
+        },
+        {
+          "name": "inginerie industriala robotica si managementul productiei",
+          "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-inginerie-industriala-robotica-managementul-productiei",
+          "status": "în configurare",
+          "updatedAt": "2026-09-17T15:40:12.414Z"
         }
       ]
     },
