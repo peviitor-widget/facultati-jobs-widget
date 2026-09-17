@@ -179,10 +179,11 @@
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-ingineria-materialelor-mediului"
         },
         {
-          "name": "ingineria instalatiilor",
+          "name": "Facultatea de Inginerie a Instalatiilor, Universitatea Tehnica din Cluj-Napoca",
           "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-ingineria-instalatiilor",
-          "status": "în configurare",
-          "updatedAt": "2026-09-17T15:39:12.983Z"
+          "status": "activ",
+          "updatedAt": "2026-09-17T15:47:55.088Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-ingineria-instalatiilor"
         },
         {
           "name": "inginerie electrica",
