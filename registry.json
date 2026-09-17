@@ -150,10 +150,11 @@
           "updatedAt": "2026-09-17T15:36:30.218Z"
         },
         {
-          "name": "automatica si calculatoare",
+          "name": "Automatica si Calculatoare, Universitatea Tehnica din Cluj-Napoca",
           "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-automatica-calculatoare",
-          "status": "în configurare",
-          "updatedAt": "2026-09-17T15:36:58.349Z"
+          "status": "activ",
+          "updatedAt": "2026-09-17T15:44:26.730Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-automatica-calculatoare"
         },
         {
           "name": "constructii",

@@ -5,7 +5,7 @@
 | Facultate | Repository | Widget |
 |-----------|------------|--------|
 | arhitectura si urbanism | [universitatea-tehnica-cluj-napoca-arhitectura-urbanism](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-arhitectura-urbanism) | în configurare |
-| automatica si calculatoare | [universitatea-tehnica-cluj-napoca-automatica-calculatoare](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-automatica-calculatoare) | în configurare |
+| Automatica si Calculatoare, Universitatea Tehnica din Cluj-Napoca | [universitatea-tehnica-cluj-napoca-automatica-calculatoare](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-automatica-calculatoare) | [live](https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-automatica-calculatoare) |
 | constructii | [universitatea-tehnica-cluj-napoca-constructii](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-constructii) | în configurare |
 | etti | [universitatea-tehnica-cluj-napoca-etti](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-etti) | în configurare |
 | ingineria instalatiilor | [universitatea-tehnica-cluj-napoca-ingineria-instalatiilor](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-ingineria-instalatiilor) | în configurare |
