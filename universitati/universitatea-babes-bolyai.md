@@ -16,12 +16,12 @@
 | facultatea de stiinta si ingineria meidului | [universitatea-babes-bolyai-stiinta-ingineria-meidului](https://github.com/peviitor-widget/universitatea-babes-bolyai-stiinta-ingineria-meidului) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-stiinta-ingineria-meidului) |
 | Facultatea de Științe Medicale și ale Sănătății, Universitatea Babeș-Bolyai Cluj-Napoca | [universitatea-babes-bolyai-stiinte-medicale-sanatatii](https://github.com/peviitor-widget/universitatea-babes-bolyai-stiinte-medicale-sanatatii) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-stiinte-medicale-sanatatii) |
 | Facultatea de Științe Politice, Administrative și ale Comunicării - Universitatea Babeș-Bolyai | [universitatea-babes-bolyai-fspac](https://github.com/peviitor-widget/universitatea-babes-bolyai-fspac) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-fspac) |
-| Facultatea de Teatru și Film, Universitatea Babeș-Bolyai | [universitatea-babes-bolyai-teatru-film](https://github.com/peviitor-widget/universitatea-babes-bolyai-teatru-film) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-teatru-film) |
 | fizica | [universitatea-babes-bolyai-fizica](https://github.com/peviitor-widget/universitatea-babes-bolyai-fizica) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-fizica) |
 | fsega | [universitatea-babes-bolyai-fsega](https://github.com/peviitor-widget/universitatea-babes-bolyai-fsega) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-fsega) |
 | geografie | [universitatea-babes-bolyai-geografie](https://github.com/peviitor-widget/universitatea-babes-bolyai-geografie) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-geografie) |
 | sport si educatie fizica | [universitatea-babes-bolyai-sport-educatie-fizica](https://github.com/peviitor-widget/universitatea-babes-bolyai-sport-educatie-fizica) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-sport-educatie-fizica) |
 | Studii Europene, Universitatea Babeș-Bolyai | [universitatea-babes-bolyai-studii-europene](https://github.com/peviitor-widget/universitatea-babes-bolyai-studii-europene) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-studii-europene) |
+| teatru si film | [universitatea-babes-bolyai-teatru-film](https://github.com/peviitor-widget/universitatea-babes-bolyai-teatru-film) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-teatru-film) |
 
 ---
 

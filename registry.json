@@ -88,13 +88,6 @@
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-fspac"
         },
         {
-          "name": "Facultatea de Teatru și Film, Universitatea Babeș-Bolyai",
-          "repo": "peviitor-widget/universitatea-babes-bolyai-teatru-film",
-          "status": "activ",
-          "updatedAt": "2026-09-10T15:54:44.409Z",
-          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-teatru-film"
-        },
-        {
           "name": "fizica",
           "repo": "peviitor-widget/universitatea-babes-bolyai-fizica",
           "status": "activ",
@@ -128,6 +121,13 @@
           "status": "activ",
           "updatedAt": "2026-09-10T15:50:45.459Z",
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-studii-europene"
+        },
+        {
+          "name": "teatru si film",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-teatru-film",
+          "status": "activ",
+          "updatedAt": "2026-10-01T11:18:54.232Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-teatru-film"
         }
       ]
     },
