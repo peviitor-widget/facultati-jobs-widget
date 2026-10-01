@@ -137,13 +137,6 @@
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-arhitectura-urbanism"
         },
         {
-          "name": "automatica si calculatoare",
-          "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-automatica-calculatoare",
-          "status": "activ",
-          "updatedAt": "2026-10-01T16:42:46.961Z",
-          "widgetUrl": "https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-automatica-calculatoare"
-        },
-        {
           "name": "constructii",
           "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-constructii",
           "status": "activ",
@@ -156,6 +149,13 @@
           "status": "activ",
           "updatedAt": "2026-10-01T11:20:32.602Z",
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-etti"
+        },
+        {
+          "name": "Facultatea de Automatica si Calculatoare, Universitatea Tehnica din Cluj-Napoca",
+          "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-automatica-calculatoare",
+          "status": "activ",
+          "updatedAt": "2026-10-01T16:48:57.086Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-automatica-calculatoare"
         },
         {
           "name": "Facultatea de Autovehicule Rutiere, Mecatronica si Mecanica - Universitatea Tehnica Cluj-Napoca",
