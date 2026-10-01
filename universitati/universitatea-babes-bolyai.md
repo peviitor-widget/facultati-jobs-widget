@@ -1,6 +1,6 @@
 # Universitatea Babes-Bolyai
 
-18 facultăți cu widget de joburi.
+19 facultăți cu widget de joburi.
 
 | Facultate | Repository | Widget |
 |-----------|------------|--------|
@@ -20,6 +20,7 @@
 | geografie | [universitatea-babes-bolyai-geografie](https://github.com/peviitor-widget/universitatea-babes-bolyai-geografie) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-geografie) |
 | sociologie asistenta sociala | [universitatea-babes-bolyai-sociologie-asistenta-sociala](https://github.com/peviitor-widget/universitatea-babes-bolyai-sociologie-asistenta-sociala) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-sociologie-asistenta-sociala) |
 | sport si educatie fizica | [universitatea-babes-bolyai-sport-educatie-fizica](https://github.com/peviitor-widget/universitatea-babes-bolyai-sport-educatie-fizica) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-sport-educatie-fizica) |
+| stiinta si ingineria mediului | [universitatea-babes-bolyai-stiinta-ingineria-mediului](https://github.com/peviitor-widget/universitatea-babes-bolyai-stiinta-ingineria-mediului) | în configurare |
 | Studii Europene, Universitatea Babeș-Bolyai | [universitatea-babes-bolyai-studii-europene](https://github.com/peviitor-widget/universitatea-babes-bolyai-studii-europene) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-studii-europene) |
 | teatru si film | [universitatea-babes-bolyai-teatru-film](https://github.com/peviitor-widget/universitatea-babes-bolyai-teatru-film) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-teatru-film) |
 
