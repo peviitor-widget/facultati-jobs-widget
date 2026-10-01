@@ -46,6 +46,13 @@
           "updatedAt": "2026-10-01T11:15:14.834Z"
         },
         {
+          "name": "Facultatea de Psihologie și Științe ale Educației, Universitatea Babeș-Bolyai, Cluj-Napoca",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-psihologie-stiinte-educatiei",
+          "status": "activ",
+          "updatedAt": "2026-10-01T11:35:58.102Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-psihologie-stiinte-educatiei"
+        },
+        {
           "name": "Facultatea de Sociologie și Asistență Socială, Universitatea Babeș-Bolyai Cluj-Napoca",
           "repo": "peviitor-widget/universitatea-babes-bolyai-sociologie-asistenta-sociala",
           "status": "activ",
@@ -114,13 +121,6 @@
           "status": "activ",
           "updatedAt": "2026-10-01T11:26:32.612Z",
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-matematica-informatica"
-        },
-        {
-          "name": "psihologie si stiinte ale educatiei",
-          "repo": "peviitor-widget/universitatea-babes-bolyai-psihologie-stiinte-educatiei",
-          "status": "activ",
-          "updatedAt": "2026-10-01T11:27:15.833Z",
-          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-psihologie-stiinte-educatiei"
         },
         {
           "name": "studii europene",
