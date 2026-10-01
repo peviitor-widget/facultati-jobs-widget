@@ -5,7 +5,7 @@
 | Facultate | Repository | Widget |
 |-----------|------------|--------|
 | arhitectura si urbanism | [universitatea-tehnica-cluj-napoca-arhitectura-urbanism](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-arhitectura-urbanism) | [live](https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-arhitectura-urbanism) |
-| automatica si calculatoare | [universitatea-tehnica-cluj-napoca-automatica-calculatoare](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-automatica-calculatoare) | [live](https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-automatica-calculatoare) |
+| Automatica si Calculatoare – Universitatea Tehnica din Cluj-Napoca | [universitatea-tehnica-cluj-napoca-automatica-calculatoare](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-automatica-calculatoare) | [live](https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-automatica-calculatoare) |
 | autovehicule rutiere mecatronica si mecanica | [universitatea-tehnica-cluj-napoca-autovehicule-rutiere-mecatronica-mecanica](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-autovehicule-rutiere-mecatronica-mecanica) | [live](https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-autovehicule-rutiere-mecatronica-mecanica) |
 | constructii | [universitatea-tehnica-cluj-napoca-constructii](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-constructii) | [live](https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-constructii) |
 | etti | [universitatea-tehnica-cluj-napoca-etti](https://github.com/peviitor-widget/universitatea-tehnica-cluj-napoca-etti) | [live](https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-etti) |
