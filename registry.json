@@ -39,13 +39,6 @@
           "updatedAt": "2026-10-01T11:15:14.834Z"
         },
         {
-          "name": "Facultatea de Psihologie și Științe ale Educației, Universitatea Babeș-Bolyai",
-          "repo": "peviitor-widget/universitatea-babes-bolyai-psihologie-stiinte-educatiei",
-          "status": "activ",
-          "updatedAt": "2026-09-10T15:51:47.439Z",
-          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-psihologie-stiinte-educatiei"
-        },
-        {
           "name": "facultatea de stiinta si ingineria meidului",
           "repo": "peviitor-widget/universitatea-babes-bolyai-stiinta-ingineria-meidului",
           "status": "activ",
@@ -93,6 +86,13 @@
           "status": "activ",
           "updatedAt": "2026-10-01T11:26:32.612Z",
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-matematica-informatica"
+        },
+        {
+          "name": "psihologie si stiinte ale educatiei",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-psihologie-stiinte-educatiei",
+          "status": "activ",
+          "updatedAt": "2026-10-01T11:27:15.833Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-psihologie-stiinte-educatiei"
         },
         {
           "name": "sociologie asistenta sociala",
