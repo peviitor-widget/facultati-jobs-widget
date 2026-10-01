@@ -39,6 +39,13 @@
           "updatedAt": "2026-10-01T11:15:14.834Z"
         },
         {
+          "name": "Facultatea de Sociologie și Asistență Socială, Universitatea Babeș-Bolyai Cluj-Napoca",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-sociologie-asistenta-sociala",
+          "status": "activ",
+          "updatedAt": "2026-10-01T11:29:13.192Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-sociologie-asistenta-sociala"
+        },
+        {
           "name": "facultatea de stiinta si ingineria meidului",
           "repo": "peviitor-widget/universitatea-babes-bolyai-stiinta-ingineria-meidului",
           "status": "activ",
@@ -93,13 +100,6 @@
           "status": "activ",
           "updatedAt": "2026-10-01T11:27:15.833Z",
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-psihologie-stiinte-educatiei"
-        },
-        {
-          "name": "sociologie asistenta sociala",
-          "repo": "peviitor-widget/universitatea-babes-bolyai-sociologie-asistenta-sociala",
-          "status": "activ",
-          "updatedAt": "2026-10-01T11:23:06.658Z",
-          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-sociologie-asistenta-sociala"
         },
         {
           "name": "sport si educatie fizica",
