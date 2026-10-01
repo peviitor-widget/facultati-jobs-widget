@@ -40,12 +40,6 @@
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-sport-educatie-fizica"
         },
         {
-          "name": "Facultatea de Geografie, Universitatea Babeș-Bolyai",
-          "repo": "peviitor-widget/universitatea-babes-bolyai-geografie-babes-bolyai",
-          "status": "în configurare",
-          "updatedAt": "2026-10-01T11:15:14.834Z"
-        },
-        {
           "name": "Facultatea de Psihologie și Științe ale Educației, Universitatea Babeș-Bolyai, Cluj-Napoca",
           "repo": "peviitor-widget/universitatea-babes-bolyai-psihologie-stiinte-educatiei",
           "status": "activ",
@@ -58,13 +52,6 @@
           "status": "activ",
           "updatedAt": "2026-10-01T11:29:13.192Z",
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-sociologie-asistenta-sociala"
-        },
-        {
-          "name": "facultatea de stiinta si ingineria meidului",
-          "repo": "peviitor-widget/universitatea-babes-bolyai-stiinta-ingineria-meidului",
-          "status": "activ",
-          "updatedAt": "2026-09-10T15:47:38.768Z",
-          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-stiinta-ingineria-meidului"
         },
         {
           "name": "Facultatea de Știința și Ingineria Mediului – Universitatea Babeș-Bolyai",
