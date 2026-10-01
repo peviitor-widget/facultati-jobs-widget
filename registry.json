@@ -177,18 +177,18 @@
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-etti"
         },
         {
-          "name": "Facultatea de Ingineria Materialelor si a Mediului, Universitatea Tehnica Cluj-Napoca",
-          "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-ingineria-materialelor-mediului",
-          "status": "activ",
-          "updatedAt": "2026-09-17T15:47:22.767Z",
-          "widgetUrl": "https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-ingineria-materialelor-mediului"
-        },
-        {
           "name": "Facultatea de Inginerie a Instalatiilor, Universitatea Tehnica din Cluj-Napoca",
           "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-ingineria-instalatiilor",
           "status": "activ",
           "updatedAt": "2026-09-17T15:47:55.088Z",
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-ingineria-instalatiilor"
+        },
+        {
+          "name": "ingineria materialelor si a mediului",
+          "repo": "peviitor-widget/universitatea-tehnica-cluj-napoca-ingineria-materialelor-mediului",
+          "status": "activ",
+          "updatedAt": "2026-10-01T11:25:47.858Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-ingineria-materialelor-mediului"
         },
         {
           "name": "inginerie electrica",
