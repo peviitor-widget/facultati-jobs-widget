@@ -5,18 +5,18 @@
       "slug": "universitatea-babes-bolyai",
       "faculties": [
         {
+          "name": "business",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-business",
+          "status": "activ",
+          "updatedAt": "2026-10-01T11:20:46.105Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-business"
+        },
+        {
           "name": "Facultatea de Biologie și Geologie, Universitatea Babeș-Bolyai Cluj-Napoca",
           "repo": "peviitor-widget/universitatea-babes-bolyai-biologie-geologie",
           "status": "activ",
           "updatedAt": "2026-09-10T15:48:09.918Z",
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-biologie-geologie"
-        },
-        {
-          "name": "Facultatea de Business, Universitatea Babeș-Bolyai Cluj-Napoca",
-          "repo": "peviitor-widget/universitatea-babes-bolyai-business",
-          "status": "activ",
-          "updatedAt": "2026-09-10T15:50:12.224Z",
-          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-business"
         },
         {
           "name": "Facultatea de Chimie și Inginerie Chimică, Universitatea Babeș-Bolyai",

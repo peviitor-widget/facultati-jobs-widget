@@ -4,8 +4,8 @@
 
 | Facultate | Repository | Widget |
 |-----------|------------|--------|
+| business | [universitatea-babes-bolyai-business](https://github.com/peviitor-widget/universitatea-babes-bolyai-business) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-business) |
 | Facultatea de Biologie și Geologie, Universitatea Babeș-Bolyai Cluj-Napoca | [universitatea-babes-bolyai-biologie-geologie](https://github.com/peviitor-widget/universitatea-babes-bolyai-biologie-geologie) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-biologie-geologie) |
-| Facultatea de Business, Universitatea Babeș-Bolyai Cluj-Napoca | [universitatea-babes-bolyai-business](https://github.com/peviitor-widget/universitatea-babes-bolyai-business) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-business) |
 | Facultatea de Chimie și Inginerie Chimică, Universitatea Babeș-Bolyai | [universitatea-babes-bolyai-chimie](https://github.com/peviitor-widget/universitatea-babes-bolyai-chimie) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-chimie) |
 | Facultatea de Drept, Universitatea Babeș-Bolyai | [universitatea-babes-bolyai-drept](https://github.com/peviitor-widget/universitatea-babes-bolyai-drept) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-drept) |
 | Facultatea de Geografie, Universitatea Babeș-Bolyai | [universitatea-babes-bolyai-geografie-babes-bolyai](https://github.com/peviitor-widget/universitatea-babes-bolyai-geografie-babes-bolyai) | în configurare |
