@@ -12,6 +12,13 @@
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-business"
         },
         {
+          "name": "drept",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-drept",
+          "status": "activ",
+          "updatedAt": "2026-10-01T11:22:42.308Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-drept"
+        },
+        {
           "name": "Facultatea de Biologie și Geologie, Universitatea Babeș-Bolyai Cluj-Napoca",
           "repo": "peviitor-widget/universitatea-babes-bolyai-biologie-geologie",
           "status": "activ",
@@ -24,13 +31,6 @@
           "status": "activ",
           "updatedAt": "2026-09-10T15:45:35.457Z",
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-chimie"
-        },
-        {
-          "name": "Facultatea de Drept, Universitatea Babeș-Bolyai",
-          "repo": "peviitor-widget/universitatea-babes-bolyai-drept",
-          "status": "activ",
-          "updatedAt": "2026-09-10T15:51:04.332Z",
-          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-drept"
         },
         {
           "name": "Facultatea de Geografie, Universitatea Babeș-Bolyai",
