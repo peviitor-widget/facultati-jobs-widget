@@ -81,13 +81,6 @@
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-stiinte-medicale-sanatatii"
         },
         {
-          "name": "Facultatea de Științe Politice, Administrative și ale Comunicării - Universitatea Babeș-Bolyai",
-          "repo": "peviitor-widget/universitatea-babes-bolyai-fspac",
-          "status": "activ",
-          "updatedAt": "2026-09-10T15:50:55.268Z",
-          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-fspac"
-        },
-        {
           "name": "fizica",
           "repo": "peviitor-widget/universitatea-babes-bolyai-fizica",
           "status": "activ",
@@ -100,6 +93,13 @@
           "status": "activ",
           "updatedAt": "2026-09-10T15:54:17.320Z",
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-fsega"
+        },
+        {
+          "name": "fspac",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-fspac",
+          "status": "activ",
+          "updatedAt": "2026-10-01T11:19:19.380Z",
+          "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-fspac"
         },
         {
           "name": "geografie",
