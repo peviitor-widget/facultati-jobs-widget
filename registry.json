@@ -40,6 +40,12 @@
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-geografie"
         },
         {
+          "name": "Facultatea de Geografie, Universitatea Babeș-Bolyai",
+          "repo": "peviitor-widget/universitatea-babes-bolyai-geografie-babes-bolyai",
+          "status": "în configurare",
+          "updatedAt": "2026-10-01T11:15:14.834Z"
+        },
+        {
           "name": "Facultatea de Litere, Universitatea Babeș-Bolyai Cluj-Napoca",
           "repo": "peviitor-widget/universitatea-babes-bolyai-litere",
           "status": "activ",

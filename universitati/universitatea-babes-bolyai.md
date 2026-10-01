@@ -1,6 +1,6 @@
 # Universitatea Babes-Bolyai
 
-17 facultăți cu widget de joburi.
+18 facultăți cu widget de joburi.
 
 | Facultate | Repository | Widget |
 |-----------|------------|--------|
@@ -9,6 +9,7 @@
 | Facultatea de Chimie și Inginerie Chimică, Universitatea Babeș-Bolyai | [universitatea-babes-bolyai-chimie](https://github.com/peviitor-widget/universitatea-babes-bolyai-chimie) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-chimie) |
 | Facultatea de Drept, Universitatea Babeș-Bolyai | [universitatea-babes-bolyai-drept](https://github.com/peviitor-widget/universitatea-babes-bolyai-drept) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-drept) |
 | Facultatea de Geografie, Universitatea Babeș-Bolyai | [universitatea-babes-bolyai-geografie](https://github.com/peviitor-widget/universitatea-babes-bolyai-geografie) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-geografie) |
+| Facultatea de Geografie, Universitatea Babeș-Bolyai | [universitatea-babes-bolyai-geografie-babes-bolyai](https://github.com/peviitor-widget/universitatea-babes-bolyai-geografie-babes-bolyai) | în configurare |
 | Facultatea de Litere, Universitatea Babeș-Bolyai Cluj-Napoca | [universitatea-babes-bolyai-litere](https://github.com/peviitor-widget/universitatea-babes-bolyai-litere) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-litere) |
 | Facultatea de Matematică și Informatică, Universitatea Babeș-Bolyai | [universitatea-babes-bolyai-matematica-informatica](https://github.com/peviitor-widget/universitatea-babes-bolyai-matematica-informatica) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-matematica-informatica) |
 | Facultatea de Psihologie și Științe ale Educației, Universitatea Babeș-Bolyai | [universitatea-babes-bolyai-psihologie-stiinte-educatiei](https://github.com/peviitor-widget/universitatea-babes-bolyai-psihologie-stiinte-educatiei) | [live](https://peviitor-widget.github.io/universitatea-babes-bolyai-psihologie-stiinte-educatiei) |
