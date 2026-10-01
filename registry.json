@@ -47,25 +47,11 @@
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-litere"
         },
         {
-          "name": "Facultatea de Matematica si Informatica, Universitatea Babeș-Bolyai Cluj-Napoca",
-          "repo": "peviitor-widget/matematica-informatica",
-          "status": "activ",
-          "updatedAt": "2026-08-03T12:14:16.324Z",
-          "widgetUrl": "https://peviitor-widget.github.io/matematica-informatica"
-        },
-        {
           "name": "Facultatea de Matematică și Informatică, Universitatea Babeș-Bolyai",
           "repo": "peviitor-widget/universitatea-babes-bolyai-matematica-informatica",
           "status": "activ",
           "updatedAt": "2026-08-20T16:59:59.836Z",
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-babes-bolyai-matematica-informatica"
-        },
-        {
-          "name": "Facultatea de Matematică și Informatică, Universitatea Babeș-Bolyai Cluj-Napoca",
-          "repo": "peviitor-widget/litere",
-          "status": "activ",
-          "updatedAt": "2026-08-03T14:19:36.517Z",
-          "widgetUrl": "https://peviitor-widget.github.io/litere"
         },
         {
           "name": "Facultatea de Psihologie și Științe ale Educației, Universitatea Babeș-Bolyai",
@@ -205,18 +191,6 @@
           "status": "activ",
           "updatedAt": "2026-09-17T15:42:18.631Z",
           "widgetUrl": "https://peviitor-widget.github.io/universitatea-tehnica-cluj-napoca-autovehicule-rutiere-mecatronica-mecanica"
-        }
-      ]
-    },
-    {
-      "name": "universtiate babes bolyai",
-      "slug": "universtiate-babes-bolyai",
-      "faculties": [
-        {
-          "name": "matematica informatica",
-          "repo": "peviitor-widget/universtiate-babes-bolyai-matematica-informatica",
-          "status": "în configurare",
-          "updatedAt": "2026-08-20T16:52:07.980Z"
         }
       ]
     }
