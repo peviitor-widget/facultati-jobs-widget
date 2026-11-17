@@ -1,6 +1,18 @@
 {
   "universities": [
     {
+      "name": "Colegiul Tehnic Ana Aslan Cluj-Napoca",
+      "slug": "colegiul-tehnic-ana-aslan-cluj-napoca",
+      "faculties": [
+        {
+          "name": "Chimie industrială",
+          "repo": "peviitor-widget/colegiul-tehnic-ana-aslan-cluj-napoca-chimie-industriala",
+          "status": "în configurare",
+          "updatedAt": "2026-11-17T09:21:54.348Z"
+        }
+      ]
+    },
+    {
       "name": "Universitatea Babes-Bolyai",
       "slug": "universitatea-babes-bolyai",
       "faculties": [
