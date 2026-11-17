@@ -1,10 +1,10 @@
 # Facultăți cu widget de joburi
 
-27 facultăți din 3 universități.
+28 facultăți din 3 universități.
 
 | Universitate | Facultăți |
 |--------------|-----------|
-| [Colegiul Tehnic Ana Aslan Cluj-Napoca](universitati/colegiul-tehnic-ana-aslan-cluj-napoca.md) | 1 |
+| [Colegiul Tehnic Ana Aslan Cluj-Napoca](universitati/colegiul-tehnic-ana-aslan-cluj-napoca.md) | 2 |
 | [Universitatea Babes-Bolyai](universitati/universitatea-babes-bolyai.md) | 17 |
 | [universitatea tehnica cluj napoca](universitati/universitatea-tehnica-cluj-napoca.md) | 9 |
 
